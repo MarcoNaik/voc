@@ -1,5 +1,4 @@
 import type { CallAnalysis } from '../types';
-import { DialogueMetrics } from '../types';
 
 // Function to upload audio file to OpenAI and get structured analysis
 export async function analyzeCallAudio(
